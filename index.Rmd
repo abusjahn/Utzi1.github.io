@@ -9,9 +9,9 @@ output: html_document
 As a part of my Bachelor thesis I'm writing this R-Package, it shall cover the needs of anyone engaging in fields of life science.
 Usage of programs like Microsoft Excel or Word is still popular among scientist even though way better alternatives are available.
 R is such an alternative that's proving the strength of open-source applications, especially for students as they often can't afford expensive proprietary programs.
-These alternatives may include writing program-code, something that at the fist sight appear to be a little inconvenient if you're used to clicking, copying, pasting etc.
-Once you mastered the burden of "programming" data-analysis can be quite a pleasure.
-To achieve the point of absolute pleasures any help is welcomed, especially things that simplify other things, speaking in R these simplifiers come as functions wrapped up inside packages.
+These alternatives may include writing program-code, something that at first sight appears to be a little inconvenient if you're used to clicking, copying, pasting etc.
+Once you mastered the burden of "programming", data-analysis can be quite a pleasure.
+To achieve the point of absolute pleasures any help is welcome, especially things that simplify other things, speaking in R these simplifiers come as functions wrapped up inside packages.
 The Package **Biotech** contains functions that cover stuff like
 
 * visualise concentrations on a 96-well-plate
@@ -20,7 +20,7 @@ The Package **Biotech** contains functions that cover stuff like
 * vitality characteristics of cells in cell-cultures 
 
 The package is available at https://github.com/Utzi1/Biotech . 
-We are aiming to popularize the usage of R (https://www.r-project.org) with scientists and engineers working on fields related to Biotechnologies.
+We are aiming to popularize the usage of R (https://www.r-project.org) with scientists and engineers working in fields related to Biotechnologies.
 
 There are many packages available for bioinformatic purposes, they'll be obtained easily at http://www.bioconductor.org .
 
